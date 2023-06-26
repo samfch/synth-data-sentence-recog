@@ -1,2 +1,1 @@
-# synth-data-sentence-recog
-Synthetic data for sentence recognition / classification in academic articles
+Synthetic dataset for sentence rocognition / classification generated witth ChatGPT
